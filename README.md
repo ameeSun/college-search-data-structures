@@ -1,1 +1,33 @@
-# college-search-data-structures
+Features for listing page:
+- Filter button that creates a side bar with different options to filter a search
+  - Submit button automaticlly closes the side bar while filtering the result
+  - Filters for state
+  - Sorts by admission rate --> ascending or descending
+  - Sorts by tuition fee --> ascending or descending
+  - Filters for main campus colleges
+  - Filters based on locale (city, suburb, town, rural)
+  - Filter button color changes, text color changes, and shadow appears when hovering over button
+  - "X" button to exit out of side bar
+- Search bar
+  - Outlines itself when clicked on
+  - Customized search button
+- Clicking on the "U" logo will take you back to the home page
+- NULL values replaced with 'no data'
+- Table with college listings reformatted
+  - Row changes color when hovered over
+  - Each row alternates in color
+  - Border separating each row
+  - Tuition shown as one of the columns
+  - Admission rates displayed as a percentage instead of a decimal and rounded to 2 decimal places
+  - Tuition fee displayed in dollars
+  - Font changed
+
+Features for detail page:
+- There is a back button to take you back to the main page
+- Graph from the chart video with acceptance rate of students (changed colors)
+- 3d pi chart with student body diversity
+- Two graphs are displayed side by side
+- Added average ACT in the info section
+- table is reformatted the same way as in the listing page
+- NULL values replaced with 'no data'
+- map size is adjusted
